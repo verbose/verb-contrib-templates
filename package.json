@@ -1,0 +1,41 @@
+{
+  "name": "verb-contrib-templates",
+  "description": "Templates for Verb, the markdown documentation generator with zero-configuration required. Config tempaltes are used by the Assemble core team.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/assemble/verb-contrib-templates",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/assemble/verb-contrib-templates/blob/master/LICENSE-MIT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assemble/verb-contrib-templates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/assemble/verb-contrib-templates/issues"
+  },
+  "main": "index.js",
+  "keywords": [
+    "boilerplates",
+    "docs",
+    "documentation",
+    "generate",
+    "github docs",
+    "github documentation",
+    "markdown",
+    "md",
+    "project documentation",
+    "readme",
+    "repo documentation",
+    "template",
+    "templates",
+    "verb templates",
+    "verb"
+  ]
+}
