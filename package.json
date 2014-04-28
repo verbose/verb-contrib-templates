@@ -1,6 +1,6 @@
 {
   "name": "verb-contrib-templates",
-  "description": "Templates used by the Verb and Assemble core teams.",
+  "description": "Templates for Verb, the markdown documentation generator with zero-configuration required. Config templates are used by the Assemble core team.",
   "version": "0.1.1",
   "homepage": "https://github.com/assemble/verb-contrib-templates",
   "author": {
