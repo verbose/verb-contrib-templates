@@ -7,12 +7,12 @@
 **Brian Woodward**
 
 + [github/doowb](https://github.com/doowb)
-+ [twitter/doowb](http://twitter.com/jonschlinkert)
++ [twitter/doowb](http://twitter.com/doowb)
 {%= } %}{%= if(typeof author === 'undefined' && author === 'brian') { %}
 **Brian Woodward**
 
 + [github/doowb](https://github.com/doowb)
-+ [twitter/doowb](http://twitter.com/jonschlinkert)
++ [twitter/doowb](http://twitter.com/doowb)
 {%= } %}{%= if(typeof author === 'undefined' && author === 'jon') { %}
 **Jon Schlinkert**
 
