@@ -1,6 +1,6 @@
 # verb-contrib-templates [![NPM version](https://badge.fury.io/js/verb-contrib-templates.png)](http://badge.fury.io/js/verb-contrib-templates)
 
-> Templates used by the Verb and Assemble core teams.
+> Templates used by the Verb and Assemble core teams
 
 ## Author
 
